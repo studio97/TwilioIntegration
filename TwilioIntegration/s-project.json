@@ -1,5 +1,12 @@
 {
-  "name": "TwilioIntegration",
-  "custom": {},
-  "plugins": []
+	"name": "TwilioIntegration",
+	"custom": 
+	{
+		
+	},
+
+	"plugins": 
+	[
+		"serverless-mocha-plugin"
+	]
 }

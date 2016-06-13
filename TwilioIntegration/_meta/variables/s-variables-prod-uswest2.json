@@ -1,0 +1,6 @@
+{
+  "region": "us-west-2",
+  "resourcesStackName": "TwilioIntegration-prod-r",
+  "iamRoleArnLambda": "arn:aws:iam::966826486976:role/TwilioIntegration-prod-r-IamRoleLambda-11OGMHAIOFD72",
+  "apiGatewayApi": "TwilioIntegration"
+}
